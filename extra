@@ -4,3 +4,17 @@ git remote add origin https://github.com/Amirthar14/Stratum.git
 git add .
 git commit -m "Initial coming soon page"
 git push -u origin main
+
+
+
+
+git status
+
+git add extra
+
+git add index.html
+git commit -m "Update landing page design"
+git push origin main
+
+
+https://stratum-mu.vercel.app/
